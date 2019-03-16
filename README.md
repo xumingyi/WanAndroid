@@ -28,4 +28,8 @@
 * 基于BaseRecyclerViewAdapterHelper封装ListFragment，方便快速得搭建开发过程中最常用得界面
 * 架构稳定，已应用于生产
 
+注意：
+    将compile 'com.github.XunMengWinter:CircularAnim:0.4.5' 修改为compile 'com.github.XunMengWinter:CircularAnim:0.4.6'可以解决编译不过的问题
+
+
 
